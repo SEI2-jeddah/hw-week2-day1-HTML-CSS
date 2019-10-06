@@ -54,8 +54,6 @@ Take what you've learned from class and build a portfolio site that showcases al
 
 ### Resources
 
-- Slides from [class 1](../01_html_basics/slides.md) and [class 2](../02_css_basics/slides.md).
-
 Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
 
 - Joe, the freelance developer's "about page":
@@ -70,4 +68,12 @@ Here are examples of a simple "About" and "Portfolio" page that fulfill the assi
 ![Joe's Portfolio](solution/images/bottom.png)
 ![Joe's Portfolio](solution/images/footer.png)
 <br>
+
+## Reminder
+Your opinion for this homework is very important! Please fill up the following questions when you pull request:
+ * on a scale from 1 to 5, how comfortable were you with this assignment?
+ * How long did it take?
+ * What was a challenge you had with this assignment?
+ * Is there anything that you'd like some further information on?
+ * Do you have any suggestions to improve this assignment?
 
